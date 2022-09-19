@@ -1,2 +1,2 @@
-scrapper\myapp\__pycache__
-scrapper\db.sqlite3migrations
+__pycache__
+db.sqlite3
